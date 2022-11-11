@@ -1,6 +1,6 @@
 package org.example;
 
-public class StateA {
+public class StateD {
     Integer field1;
-    Integer field2;
+    //Integer field2;
 }

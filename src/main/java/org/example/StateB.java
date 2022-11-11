@@ -1,5 +1,8 @@
 package org.example;
 
+import java.util.List;
+
 public class StateB {
-    public Integer test_state_2 = 3;
+    GossipState state;
+    List<GossipState> state1;
 }
