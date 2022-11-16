@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example.state.StateB;
+
 import java.util.*;
 
 public class StateA {
