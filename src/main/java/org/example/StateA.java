@@ -1,9 +1,9 @@
 package org.example;
 
+import org.example.state.StateB;
+
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
 
 public class StateA {
     public Integer test_state_1 = 1;
